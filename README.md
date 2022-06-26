@@ -3,8 +3,8 @@
 ![Custom badge](https://img.shields.io/badge/repo%20size-136%20KB-blue)
 ![Custom badge](https://img.shields.io/badge/build-passing-brightgreen)
 ![Custom badge](https://img.shields.io/badge/build%20tool-maven-brightgreen)
-![Custom badge](https://img.shields.io/badge/code%20analysis%20tool-spotbugs-orange)
-![Custom badge](https://img.shields.io/badge/static%20analysis%20tool-spotbugs-red)
+![Custom badge](https://img.shields.io/badge/code%20analysis%20tools-spotbugs,%20checkstyle-orange)
+![Custom badge](https://img.shields.io/badge/test%20framework-JUnit-blue)
 
 This project implements a software system that allows the interface of the old system to be used as the new
 interface and is able to convert these two interfaces.
